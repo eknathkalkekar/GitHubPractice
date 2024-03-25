@@ -10,6 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		String a=null;
                 int a =10+20;
+                int b=10*30;
+                int c=50-12;
 	
 	}
 
